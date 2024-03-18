@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #474bff;
+}
+.form-back{
+    height: 90vh;
+    width: 1400px;
+    background-color: white;
+    margin: 30px;
+    margin-left: 65px;
+    border-radius: 15px;
+}
+table{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+input{
+    width: 200px;
+}
+input[type=text]{
+    width: 400px;
+}
+input[type=date]{
+    width: 400px;
+}
+select{
+    width: 400px;
+}
+textarea{
+    width: 400px;
+}
+.form-select{
+    width: 400px;
+}
+input[type=number]{
+    width: 400px;
+}
+input[type=email]{
+    width: 400px;
+}
+input[type=password]{
+    width: 400px;
+}
